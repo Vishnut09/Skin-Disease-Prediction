@@ -2,7 +2,7 @@
 
 Skin Disorder Prediction using Machine Learning
 
-#Project Overview
+# Project Overview
 
 This project focuses on building a machine learning–based decision support system to classify six types of erythemato-squamous skin disorders using clinical and histopathological features.
 
@@ -22,7 +22,7 @@ Family history
 
 The final model serves as a clinical decision-support tool, not a replacement for medical diagnosis.
 
-📊 Dataset Description
+# 📊 Dataset Description
 
 The dataset contains:
 
@@ -92,7 +92,7 @@ Random Forest
 
 XGBoost
 
-📈 Evaluation Metrics:
+# 📈 Evaluation Metrics:
 
 Accuracy
 
@@ -102,7 +102,7 @@ Recall
 
 Macro F1 Score (primary metric)
 
-🏆 Best Performing Model
+# 🏆 Best Performing Model
 
 Ensemble models such as Random Forest and XGBoost performed the best due to:
 
@@ -114,7 +114,7 @@ Better handling of overlapping disease characteristics
 
 Strong multi-class performance
 
-🔬 Model Interpretability
+# Model Interpretability
 
 To ensure clinical trust:
 
@@ -166,7 +166,7 @@ Matplotlib
 
 Seaborn
 
-📂 Project Structure
+# 📂 Project Structure
 Skin-Disorder-Prediction/
 │
 ├── skin_disorder_prediction.ipynb
@@ -174,7 +174,7 @@ Skin-Disorder-Prediction/
 ├── requirements.txt
 └── dataset.csv
 
-🧠 Key Learnings
+# 🧠 Key Learnings
 
 Handling structured medical data
 
@@ -186,7 +186,7 @@ Model interpretability in sensitive domains
 
 Building reproducible ML pipelines
 
-⚠️ Disclaimer
+# ⚠️ Disclaimer
 
 This model is intended for educational and research purposes only.
 It should be used as a decision-support tool and not as a replacement for professional medical diagnosis.
